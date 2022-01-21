@@ -10,4 +10,4 @@ Para conseguir tal certificado se abarcan 6 cursos que componen al mismo:
   5. Configuration Management and the Cloud
   6. Automating Real-World Tasks with Python
 
-Al dia de la fecha, 16 de enero de 2022, se encuentra finalizado Crash Course on Python, con el proyecto final compartido en el repo. 
+Al dia de la fecha, 20 de enero de 2022, se encuentra en progreso el segundo curso: Using Python to Interact with the Operating System. 
